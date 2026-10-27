@@ -51,11 +51,11 @@ lib/
 ### Installation
 
 ```bash
-git clone https://github.com/aamirali65/Dental-Clinic-Management-MobileApp.git
+git clone https://github.com/aamirali65/dental-clinic-management.git
 ```
 
 ```bash
-cd Dental-Clinic-Management-MobileApp
+cd dental-clinic-management
 ```
 
 ```bash
